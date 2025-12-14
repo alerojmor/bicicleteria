@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Bicicleta Inglesa de paseo",
+      "descripcion": "Bicicleta de Paseo Liviana y Resistente",
+      "precio": 450000,
+      "avatar": "./src/images/imagen2.jpg",
+      "categoria": "",
+      "stock": 15,
+      "detalles": "Para adultos, cuadro en acero, single speed"
+    },
+    {
+      "id": 2,
+      "nombre": "Inflador de mano",
+      "descripcion": "Inflador de mano de alta presión",
+      "precio": 24990,
+      "avatar": "./src/images/infladorspy1.jpg",
+      "categoria": "Infladores",
+      "stock": 10,
+      "detalles": "Para uso general, valvulas Presta y Schrader"
+    },
+    {
+      "id": 3,
+      "nombre": "Código Secreto",
+      "descripcion": "Juego de palabras y deducción",
+      "precio": 19990,
+      "avatar":"/img_juegos/codigo_secreto.webp",
+      "categoria": "detectives",
+      "stock": 8,
+      "detalles": "Para 2-8 jugadores, duración 15-30 minutos"
+    },
+    {
+      "id": 4,
+      "nombre": "Ticket to Ride",
+      "descripcion": "Juego de construcción de rutas ferroviarias",
+      "precio": 34990,
+      "avatar": "/img_juegos/ticket_to_ride.webp",
+      "categoria": "estrategia",
+      "stock": 12,
+      "detalles": "Para 2-5 jugadores, duración 30-60 minutos"
+    }
+  ]
+}
